@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: my_agents
+Version: 0.2
+Requires-Python: >=3.6
+Requires-Dist: numpy
+Requires-Dist: torch

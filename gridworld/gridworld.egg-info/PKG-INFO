@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: gridworld
+Version: 0.1
+Summary: A custom GridWorld environment for gymnasium
+Home-page: https://github.com/tuo_username/gridworld_env
+Author: Il tuo nome
+Author-email: tuo_email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: gymnasium
+Requires-Dist: numpy
+Requires-Dist: pygame
