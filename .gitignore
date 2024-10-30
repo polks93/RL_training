@@ -2,3 +2,4 @@ my_package/
 SHIP/ShipQuest-v0_Data/model_with_data_3000_ep.pth
 SHIP/ShipQuest-v0_Data/model_with_data_10000_ep.pth
 .ipynb_checkpoints/
+*.pth
